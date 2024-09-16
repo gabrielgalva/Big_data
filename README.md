@@ -1,4 +1,3 @@
-# Big_data
 Este repositório foi criado para o desenvolvimento do trabalho de Big Data.
 
 Integrantes do grupo:
